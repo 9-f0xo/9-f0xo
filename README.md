@@ -13,5 +13,4 @@
 ## 📊 Minhas Estatísticas:
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=9-f0xo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9-f0xo&layout=compact&langs_count=6&theme=dracula"/>
 </div>

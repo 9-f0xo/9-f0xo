@@ -1,4 +1,4 @@
-## Me chamo Foxo! 🐱‍💻  
+## Howdy, me chamo Foxo! 🐱‍💻  
 <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif" width="120px">
 
 ### Linguagens e Ferramentas que uso:
